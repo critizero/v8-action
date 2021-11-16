@@ -14,8 +14,8 @@ on:
 
 env:
   PATCH_FLAG: true
-  COMMIT: 86.0.4240.111
-  DEPOT_UPLOAD: false
+  COMMIT: 6dc88c191f5ecc5389dc26efa3ca0907faef3598
+  DEPOT_UPLOAD: true
   SRC_UPLOAD: true
   BINARY_UPLOAD: false
 
